@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>The Spaceships</title>
+</head>
+<body>
+    <header>
+        <div>
+            <a href="SpaceX"><img src="logo.png"></a>|
+            <a href="The Spaceships">The Spaceships</a> | <a href="Hire Us">Hire Us</a>
+            <hr>
+        </div>
+    </header>
+        <main>
+            <article>
+                <div>
+                    <h1>Available Spaceships</h1>
+                    <br>
+                        <h3>Falcon 9</h3>
+                            <img src="falcon_9.jpg" alt="space ship">
+                        <p>Fusce id velit a mi vehicula eleifend et non magna. Fusce cursus lorem quis ipsum convallis suscipit. 
+                           Nulla facilisis lobortis turpis, eu scelerisque nunc volutpat a. Proin luctus orci eget sollicitudin congue. 
+                           Nam quis enim diam. Duis vel arcu nec nulla ultrices maximus ut sit amet felis. Donec quis velit sed nulla finibus 
+                           hendrerit vitae eu nisi. Nullam congue tortor et leo sagittis, a porttitor nibh molestie.Quisque augue ex, eleifend vel 
+                           ligula vitae, bibendum laoreet dui. Sed lacinia nisl quis augue venenatis, ut dapibus tellus dictum.</p>
+                        <hr>
+                </div>
+                <div>
+                    <h3>Falcon Heavy</h3>
+                            <img src="falcon_heavy.jpg" alt="space ship">
+                        <p>Nulla vitae eleifend odio. Suspendisse potenti. Nunc nibh enim, dignissim at orci luctus, convallis blandit nisi. 
+                           Donec at ipsum maximus, euismod velit sit amet, ultricies urna. Fusce non nulla vitae leo pulvinar iaculis id in ex. 
+                           Fusce aliquet quam eu egestas laoreet. Praesent tempus ullamcorper est, sit amet auctor est. Nam fermentum volutpat enim. 
+                           Aenean sit amet suscipit justo, iaculis rhoncus lacus. Nulla tristique euismod sem, sed vulputate lorem ullamcorper id. 
+                           Maecenas massa tellus, volutpat vitae imperdiet in, viverra eu sem. Pellentesque vel ex et orci ultricies sollicitudin.</p>
+                </div>
+            </article>
+        </main>
+</body>
+</html>
